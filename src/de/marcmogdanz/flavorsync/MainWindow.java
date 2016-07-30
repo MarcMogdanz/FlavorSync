@@ -53,7 +53,7 @@ public class MainWindow {
 	}
 
 	private void initialize() {
-		frame = new JFrame();
+		frame = new JFrame("FlavorSync v1.0");
 		frame.setBounds(100, 100, 400, 600);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
