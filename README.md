@@ -8,7 +8,7 @@ Start the jar, select your LoL directory, click on download and wait.
 
 ## Download
 
-See the releases over [here](https://github.com/MarcMogdanz/FlavorSync/releases).
+See the releases over [here](https://github.com/MineKayama/FlavorSync/releases).
 
 ## Credits
 
