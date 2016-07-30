@@ -1,10 +1,14 @@
 # FlavorSync
 
-A tool to download League of Legends item builds by [LoLFlavor](http://lolflavor.com/)
+A tool to download League of Legends item builds by [LoLFlavor](http://lolflavor.com/).
 
 ## Usage
 
 Start the jar, select your LoL directory, click on download and wait.
+
+## Download
+
+See the releases over [here](https://github.com/MarcMogdanz/FlavorSync/releases).
 
 ## Credits
 
